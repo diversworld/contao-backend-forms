@@ -9,6 +9,7 @@ declare(strict_types=1);
 namespace InspiredMinds\ContaoBackendFormsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
+use Symfony\Component\DependencyInjection\ContainerBuilder;
 
 class ContaoBackendFormsBundle extends Bundle
 {
